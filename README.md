@@ -8,7 +8,7 @@
 4. 权限管理：自动请求管理员权限以确保设置生效  
 5. 现代化界面：基于PySide6的直观图形界面  
 
-### 系统要求
+### 运行环境
 Windows 10/11  
 Python 3.7+  
 
@@ -38,5 +38,5 @@ Python 3.7+
 建议在修改前记录原有DNS设置  
 
 # 贡献
-DeepSeek 🐋 - 所有的程序, 以及我们所正在阅读的这段 README.md
-欢迎提交 Issue 和 Pull Request 来改进这个项目！
+DeepSeek 🐋 - 所有的程序, 以及我们所正在阅读的这段 README.md 😆  
+欢迎提交 Issue 和 Pull Request 来改进这个项目！⭐
