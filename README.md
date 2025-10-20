@@ -1,4 +1,4 @@
-#DnsController
+# DnsController
 ### 这是什么?
 这是一个由 DeepSeek 🐋 编写的 DNS 控制器。
 
